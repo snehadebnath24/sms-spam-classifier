@@ -10,9 +10,9 @@ Uses Machine Learning algorithms
 Simple and user-friendly interface
 
 🛠️ Technologies Used
-Python
-Scikit-learn
-Pandas
-NumPy
-Natural Language Processing (NLP)
-Streamlit
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+- Natural Language Processing (NLP)
+- Streamlit
